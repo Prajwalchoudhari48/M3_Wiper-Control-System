@@ -36,6 +36,9 @@ The goals of this project are to provide wiping systems for older cars, to impro
 - Push Button is to do operation turning on,turning off,change the speed of wiper system.
 
 # SWOT Analysis 
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/102716839/168243386-35f8ed9a-b348-45ce-b5b1-49e9d652bb01.png">
+
+
 
 
 
