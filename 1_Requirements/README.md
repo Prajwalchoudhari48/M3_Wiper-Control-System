@@ -40,14 +40,37 @@ The goals of this project are to provide wiping systems for older cars, to impro
 
 
 # 4'W and 1'H
-- WHY   - To keep the windsheild clean enough to get clear vision view at all times.
+-  WHY - To keep the windsheild clean enough to get clear vision view at all times.
 
-- WHAT  - It is Wiper Control system which is generally deployed in all the automobiles in order to ensure safety for the drivers during rainy conditions.
+-  WHAT - It is wiper control system which is generally depployed in all the automobiles in order to ensure safety for the drivers during raniy          
+          conditions.
 
-- WHEN  - It is recommended to operate during dust or rain.
+-  WHEN - It is recommended to operate during dust or rain.
+
+-  WHERE - It is an system which is present in the windsheild of the vehicle.
  
-- WHERE - It is an system which is present in the windshield of the vehicle.
+-  HOW - It is implemented with the help of STM32 with the desired operation of changing odf speeds according to the rainfall intensity.
 
-- HOW   - It is implemented with the help of STM32 with the desired operation of changing of speeds according to the rainfall intensity.
+# Requirements
+
+# High Level Requirements
+| High Level Requirements  | Description | Status |
+| ----|-----------|--------------|
+| HLR1  |ACC Mode Operation | Implemented |
+| HLR2  | Wiper ON | Implemented |
+| HLR3  | Control the speed of Wiper|Implemented |
+| HLR4  |Wiper OFF|Implemented |
+
+
+# Low Level Requirements
+| Low Level Requirements	  | Description |Status |
+| ------------- | ------------- |-----------|
+| LLR1 | Pressed Btton once for 2 secs| RED LED ON | Implemented |
+| LLR2| Pressed Button second time|LED Blue, Green Orange flickering alternative|Implemented|
+|LLR3| Pressed Button third time |LED Blue, Green Orange flickering faster | Implemented |
+|LLR4| Pressed Button fourth time |LED Blue, Green Orange flickering STOP | Implemented |
+|LLR5| Hold Button for 2 secs | Turn off all LED's|Implemented|
+
+
 
 
