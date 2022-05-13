@@ -43,13 +43,13 @@ The goals of this project are to provide wiping systems for older cars, to impro
 
 
 # 4'W and 1'H
--  WHY - To keep the windsheild clean enough to get clear vision view at all times.
+-  WHY - To keep the windsheild clean to get clear vision view at all times.
 
 -  WHAT - It is wiper control system which is generally deployed in all the automobiles in order to ensure safety for the drivers during rainy conditions.
 
--  WHEN - It is recommended to operate during dust or rain.
+-  WHEN - It is used to operate during dust or rain.
 
--  WHERE - It is an arrangement which is present in the windsheild of the automobile.
+-  WHERE -Anywhere the user wants to use the feautures provided..
  
 -  HOW - It is implemented with the help of STM32 with the desired operation of changing  speeds according to the rainfall intensity.
 
