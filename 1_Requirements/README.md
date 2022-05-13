@@ -65,7 +65,7 @@ The goals of this project are to provide wiping systems for older cars, to impro
 # Low Level Requirements
 | Low Level Requirements	  | Description |Status |
 | ------------- | ------------- |-----------|
-| LLR1 | Pressed Btton once for 2 secs| RED LED ON | Implemented |
+| LLR1 | Pressed Button once for 2 secs| RED LED ON | Implemented |
 | LLR2| Pressed Button second time|LED Blue, Green Orange flickering alternative|Implemented|
 |LLR3| Pressed Button third time |LED Blue, Green Orange flickering faster | Implemented |
 |LLR4| Pressed Button fourth time |LED Blue, Green Orange flickering STOP | Implemented |
