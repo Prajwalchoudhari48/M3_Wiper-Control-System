@@ -9,4 +9,5 @@ A wiper speed control system for an vehicle wiper orders the functioning speed o
 The goals of this project are to provide wiping systems for older cars, to improve the system by employing actuators and pull switches (using the same switch for multiple purposes by stepwise switching), and to regulate the engine and wiper speed with a single switch.
 
 
+# Badges
 [![Analysis](https://github.com/Prajwalchoudhari48/M3_Wiper-Control-System/actions/workflows/codeql.yml/badge.svg)](https://github.com/Prajwalchoudhari48/M3_Wiper-Control-System/actions/workflows/codeql.yml)
